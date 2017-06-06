@@ -1,8 +1,6 @@
 # SookritM.github.io
 
-Personal Page
-
-<li>Aspects of the work have been successfully implemented:</li>
+Aspects of the work have been successfully implemented:
 
 <li>All files including directories are in SookritM.github.io </li>
 <li>Constant use of Git: committing with meaningful messages and pushing </li>
