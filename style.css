@@ -1,0 +1,30 @@
+
+h1 {
+	text-align: center;
+	font-size: 85px;
+	color: #424242;
+}
+
+h2 {
+	text-align: left;
+	text-decoration: underline;
+	font-size: 40px;
+	color: #4C4456
+}
+
+body {
+	font-size: 8px;
+	font-family: Didot;
+	background-color: #dddddd;
+}
+
+body {
+	color: black;
+	font-size: 22px;
+}
+
+#header {
+	background-color: white;
+	margin-left: 15%;
+	margin-right: 15%;
+}
