@@ -1,5 +1,8 @@
 # SookritM.github.io
 
+Link to Resume: https://sookritm.github.io/resume.html
+Link to Bio: https://sookritm.github.io/bio.html
+
 Aspects of the work have been successfully implemented:
 
 <li>All files including directories are in SookritM.github.io </li>
